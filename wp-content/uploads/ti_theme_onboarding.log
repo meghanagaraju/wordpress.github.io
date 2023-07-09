@@ -1,0 +1,20 @@
+[04/Jul/2023:04:56:16] (I): WordPress Instance Info:
+[04/Jul/2023:04:56:16] (I): Home URL : http://localhost/wordpress
+[04/Jul/2023:04:56:16] (I): Site URL : http://localhost/wordpress
+[04/Jul/2023:04:56:16] (I): WordPress Version : 6.2.2
+[04/Jul/2023:04:56:16] (I): Onboarding Version : 1.1.39
+[04/Jul/2023:04:56:16] (I): Multisite : No
+[04/Jul/2023:04:56:16] (I): Server Info : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+[04/Jul/2023:04:56:16] (I): PHP Version : 8.2.4
+[04/Jul/2023:04:56:16] (I): HTTPS : No
+[04/Jul/2023:04:56:16] (I): PHP Max Execution Time : 120
+[04/Jul/2023:04:56:16] (I): PHP Max Input Vars : 1000
+[04/Jul/2023:04:56:16] (I): Max Upload Size : 41943040
+[04/Jul/2023:04:56:16] (I): Plugins:
+[04/Jul/2023:04:56:16] (I): [PLUGIN] AMP : v2.4.1 (AMP Project Contributors)
+[04/Jul/2023:04:56:16] (I): [PLUGIN] Image optimization service by Optimole : v3.8.1 (Optimole)
+[04/Jul/2023:04:56:16] (I): [PLUGIN] Otter – Page Builder Blocks &amp; Extensions for Gutenberg : v2.3.1 (ThemeIsle)
+[04/Jul/2023:04:56:16] (I): [PLUGIN] Templates Patterns Collection : v1.1.39 (ThemeIsle)
+[04/Jul/2023:04:56:16] (I): [PLUGIN] Orbit Fox Companion : v2.10.26 (Themeisle)
+[04/Jul/2023:04:56:16] (I): [PLUGIN] Super Page Cache for Cloudflare : v4.7.4 (Optimole)
+[04/Jul/2023:04:56:16] (I): [PLUGIN] WPForms Lite : v1.8.2.2 (WPForms)
